@@ -62,3 +62,10 @@ It is clear that :
 Now, alternatives are ranked in decreasing order based on closeness to the ideal solution. Both of (5) and (6) are calculated in Distance_Between_Ideal_and_Alternatives.py.
 ## 7)	TOPSIS
 In this section, all of the previous .py files are employed and utilized in an integrated way.
+
+
+## References
+1.	 Hwang, C.L.; Yoon, K. (1981). Multiple Attribute Decision Making: Methods and Applications. New York: Springer-Verlag.: https://www.springer.com/gp/book/9783540105589
+2.	 Assari, A., Mahesh, T., & Assari, E. (2012b). Role of public participation in sustainability of historical city: usage of TOPSIS method. Indian Journal of Science and Technology, 5(3), 2289-2294.
+3.	Jahanshahloo, G.R., Lotfi, F.H. and Izadikhah, M., 2006. An algorithmic method to extend TOPSIS for decision-making problems with interval data. Applied mathematics and computation, 175(2), pp.1375-1384.
+4.	Vafaei, N., Ribeiro, R.A. and Camarinha-Matos, L.M., 2018. Data normalization techniques in decision making: case study with TOPSIS method. International journal of information and decision sciences, 10(1), pp.19-38.
