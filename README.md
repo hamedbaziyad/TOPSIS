@@ -1,4 +1,4 @@
-# TOPSIS
+# TOPSIS implementation in Python
 Technique for Order of Preference by Similarity to Ideal Solution (TOPSIS)
 CHING-LAI Hwang and Yoon introduced TOPSIS in 1981 in their Multiple Criteria Decision Making (MCDM) and Multiple Criteria Decision Analysis (MCDA) methods. [1]. TOPSIS strives to minimize the distance between the positive ideal solution and the chosen alternative, as well as to maximize the distance between the negative ideal solution and the chosen alternative. [2]. TOPSIS, in a nutshell, aids researchers to rank alternative items by identifying some criteria. We present alternative information and the criteria for each in the following decision matrix:
 ![image](https://user-images.githubusercontent.com/44522286/131339802-c16bb37c-6479-40e5-b28f-b79471b9bb26.png)
