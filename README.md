@@ -55,6 +55,7 @@ Now that the distance between ideal solutions and alternatives has been calculat
 ![image](https://user-images.githubusercontent.com/44522286/131340990-f18f6d58-93f1-419a-958e-281accd36cfa.png)
 
 It is clear that :
+
 ![image](https://user-images.githubusercontent.com/44522286/131341036-7899bc44-4e7b-401b-8c3e-7e22fffd571d.png)
 
 ## 6)	Ranking
