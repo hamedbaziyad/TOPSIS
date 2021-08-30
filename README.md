@@ -8,7 +8,7 @@ It is possible that some criteria are more effective than others. Therefore, som
 
 Jahanshahloo et al, (2006), explained the TOPSIS in six main phases as follows: 
 
-## 1)	Normalized of Decision Matrix
+## 1)	Normalized Decision Matrix
 It is the first phase of TOPSIS to normalize the process. Researchers have proposed different types of normalization. In this section, we identify the most commonly used normalization methods. The criterion or attribute is divided into two categories, cost and benefit. There are two formulas for normalizing the decision matrix for each normalization method: one for benefit criteria and one for cost criteria. According to Vafaei et al (2018), some of these normalization methods include:
 
 ![image](https://user-images.githubusercontent.com/44522286/131340118-1f755eb0-ea87-4a06-acf1-24a86e25c910.png)
